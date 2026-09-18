@@ -104,6 +104,29 @@ import Panindiabusandcab from './pages/Pan India Bus & Cab Service Pune';
 import Punetomysoreooty from './pages/Pune to Mysore Ooty Bus Tour Package';
 import Punetomadhyapradesh from './pages/Pune to Madhya Pradesh Bus for Trip';
 import ContactButtons from './components/ContactButtons';
+import Busonrentpune from './pages/Bus On Rent Pune';
+import Punebushire from './pages/Pune Bus Hire';
+import Bushireinpune from './pages/Bus Hire in Pune';
+import Busservicepune from './pages/Bus Service Pune';
+import Rentabuspune from './pages/Rent a Bus Pune';
+import Fourzeroseaterbus from './pages/40 Seater Bus On Rent in Pune';
+import Twofiveseaterbusonrent from './pages/25 Seater Bus On Rent in Pune';
+import Minibusrentalpune from './pages/Mini Bus Rental Pune';
+import Urbaniaonrentinpune from './pages/Urbania On Rent in Pune';
+import Urbaniaonrentpune from './pages/Urbania On Rent Pune';
+import Tempotravellerrentalpune from './pages/Tempo Traveller Rental Pune';
+import Busrentalforcorporateevets from './pages/Bus Rentals for Corporate Events';
+import Twozeroseatertempo from './pages/20 Seater Tempo Traveller On Rent in Pune';
+import Twosixseaterbus from './pages/26 Seater Bus On Rent in Pune';
+import Urbaniaonrentpipri from './pages/Urbania On Rent in Pimpri Chinchwad';
+import Innovacrystaonrentpune from './pages/Innova Crysta On Rent in Pune';
+import Minibushirepune from './pages/Mini Bus Hire in Pune';
+import Tempootravelleronrent from './pages/Tempo Traveller On Rent in Pimpri Chinchwad';
+import Busrentalforcorporateevetsinpune from './pages/Bus Rental for Corporate Events in Pune';
+import Weddingbusrental from './pages/Wedding Bus Rental Services in Pune';
+import Busrentalpune from './pages/Bus Rental Pune';
+import Minibusrentalpunee from './pages/Mini Bus Rentals Pune';
+import Innovaonrentinpune from './pages/Innova On Rent in Pune';
 
 function App() {
   return (
@@ -111,7 +134,7 @@ function App() {
      <Header/>
       <ContactButtons />
       <ScrollToTop />
-{/* <Header /> */}
+
       <Routes>
         <Route path="/" element={<HeroSection />} />
         <Route path="/about-us" element={<AboutUs />} />
@@ -215,6 +238,30 @@ function App() {
 <Route path="/Pan-India-Bus-Cab-Service-Pune" element={<Panindiabusandcab />} />
 <Route path="/Pune-to-Mysore-Ooty-Bus-Tour-Package" element={<Punetomysoreooty />} />
 <Route path="/Pune-to-Madhya-Pradesh-Bus-for-Trip" element={<Punetomadhyapradesh />} />
+<Route path="/Bus-On-Rent-Pune" element={<Busonrentpune />} />
+
+<Route path="/Pune-Bus-Hire" element={<Punebushire />} />
+<Route path="/Bus-Hire-in-Pune" element={<Bushireinpune />} />
+<Route path="/Bus-Service-Pune" element={<Busservicepune />} />
+<Route path="/Rent-a-Bus-Pune" element={<Rentabuspune />} />
+<Route path="/40-Seater-Bus-On-Rent-in-Pune" element={<Fourzeroseaterbus />} />
+<Route path="/25-Seater-Bus-On-Rent-in-Pune" element={<Twofiveseaterbusonrent />} />
+<Route path="/Mini-Bus-Rental-Pune" element={<Minibusrentalpune />} />
+<Route path="/Urbania-On-Rent-in-Pune" element={<Urbaniaonrentinpune />} />
+<Route path="/Urbania-On-Rent-Pune" element={<Urbaniaonrentpune />} />
+<Route path="/Tempo-Traveller-Rental-Pune" element={<Tempotravellerrentalpune />} />
+<Route path="/Bus-Rentals-for-Corporate-Events" element={<Busrentalforcorporateevets />} />
+<Route path="/20-Seater-Tempo-Traveller-On-Rent-in-Pune" element={<Twozeroseatertempo />} />
+<Route path="/26-Seater-Bus-On-Rent-in-Pune" element={<Twosixseaterbus />} />
+<Route path="/Urbania-On-Rent-in-Pimpri-Chinchwad" element={<Urbaniaonrentpipri />} />
+<Route path="/Innova-Crysta-On-Rent-in-Pune" element={<Innovacrystaonrentpune />} />
+<Route path="/Mini-Bus-Hire-in-Pune" element={<Minibushirepune />} />
+<Route path="/Tempo-Traveller-On-Rent-in-Pimpri-Chinchwad" element={<Tempootravelleronrent />} />
+<Route path="/Bus-Rental-for-Corporate-Events-in-Pune" element={<Busrentalforcorporateevetsinpune />} />
+<Route path="/Wedding-Bus-Rental-Services-in-Pune" element={<Weddingbusrental />} />
+<Route path="/Bus-Rental-Pune" element={<Busrentalpune />} />
+<Route path="/Mini-Bus-Rentals-Pune" element={<Minibusrentalpunee />} />
+<Route path="/Innova-On-Rent-in-Pune" element={<Innovaonrentinpune />} />
 
       </Routes>
 

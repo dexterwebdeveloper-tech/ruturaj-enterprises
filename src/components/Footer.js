@@ -104,6 +104,12 @@ const Footer = () => {
 <li><Link to="/Non-Ac-Bus-Rental-Service-in-Pune"><i className="fa fa-car darkcolor"></i> Non Ac Bus Rental Service in Pune</Link></li>
 <li><Link to="/Bus-Service-for-Picnic-in-Pune"><i className="fa fa-car darkcolor"></i> Bus Service for Picnic in Pune</Link></li>
 <li><Link to="/Pune-to-Aurangabad-Tempo-Traveller-on-Rent"><i className="fa fa-car darkcolor"></i> Pune to Aurangabad Tempo Traveller on Rent</Link></li>
+<li><Link to="/Ashtavinayak-Darshan-Tour-Bus-Package-From-Pune"><i className="fa fa-car darkcolor"></i> Ashtavinayak Darshan Tour Bus Package From Pune</Link></li>
+<li><Link to="/Pune-to-Rajasthan-Bus-Trip-Package"><i className="fa fa-car darkcolor"></i> Pune to Rajasthan Bus Trip Package</Link></li>
+<li><Link to="/Pune-to-Gujarat-Bus-Hire"><i className="fa fa-car darkcolor"></i> Pune to Gujarat Bus Hire</Link></li>
+<li><Link to="/Goa-Tour-Package-from-Pune-by-Bus"><i className="fa fa-car darkcolor"></i> Goa Tour Package from Pune by Bus</Link></li>
+<li><Link to="/Pune-to-Uttar-Pradesh-bus-on-rent"><i className="fa fa-car darkcolor"></i> Pune to Uttar Pradesh bus on rent</Link></li>
+<li><Link to="/Book-Konkan-Darshan-Tour-Packages-from-Pune-by-Bus"><i className="fa fa-car darkcolor"></i> Book Konkan Darshan Tour Packages from Pune by Bus</Link></li>
 
 
                     </ul>
@@ -113,13 +119,8 @@ const Footer = () => {
                   <div className="footer-widget footer-menu">
                     <h5 className="footer-title">Our Services</h5>
   <ul>
-<li><Link to="/Ashtavinayak-Darshan-Tour-Bus-Package-From-Pune"><i className="fa fa-car darkcolor"></i> Ashtavinayak Darshan Tour Bus Package From Pune</Link></li>
-<li><Link to="/Pune-to-Rajasthan-Bus-Trip-Package"><i className="fa fa-car darkcolor"></i> Pune to Rajasthan Bus Trip Package</Link></li>
-<li><Link to="/Pune-to-Gujarat-Bus-Hire"><i className="fa fa-car darkcolor"></i> Pune to Gujarat Bus Hire</Link></li>
-<li><Link to="/Goa-Tour-Package-from-Pune-by-Bus"><i className="fa fa-car darkcolor"></i> Goa Tour Package from Pune by Bus</Link></li>
-<li><Link to="/Pune-to-Uttar-Pradesh-bus-on-rent"><i className="fa fa-car darkcolor"></i> Pune to Uttar Pradesh bus on rent</Link></li>
-<li><Link to="/Book-Konkan-Darshan-Tour-Packages-from-Pune-by-Bus"><i className="fa fa-car darkcolor"></i> Book Konkan Darshan Tour Packages from Pune by Bus</Link></li>
 <li><Link to="/Tempo-Traveller-On-Rent"><i className="fa fa-car darkcolor"></i> Tempo Traveller On Rent</Link></li>
+
 <li><Link to="/Bus-services-for-corporate-in-Pune"><i className="fa fa-car darkcolor"></i> Bus services for corporate in Pune</Link></li>
 <li><Link to="/Local-Bus-Hire-In-Pune"><i className="fa fa-car darkcolor"></i> Local Bus Hire In Pune</Link></li>
 <li><Link to="/Pune-to-Lonavala-Bus-Tour-Package"><i className="fa fa-car darkcolor"></i> Pune to Lonavala Bus Tour Package</Link></li>
@@ -138,14 +139,6 @@ const Footer = () => {
 <li><Link to="/Bharat-Benz-bus-on-Rent-Pune"><i className="fa fa-car darkcolor"></i> Bharat Benz bus on Rent Pune</Link></li>
 <li><Link to="/Eicher-Bus-on-Rent-in-Pune"><i className="fa fa-car darkcolor"></i> Eicher Bus on Rent in Pune</Link></li>
 <li><Link to="/Pune-to-Mahabaleshwar-Cab"><i className="fa fa-car darkcolor"></i> Pune to Mahabaleshwar Cab</Link></li>
-
-                    </ul>
-                  </div>
-                </div>
-                <div className="col-lg-4 col-md-6">
-                  <div className="footer-widget footer-menu">
-                    <h5 className="footer-title">Our Services</h5>
-                    <ul>
 <li><Link to="/Pune-to-Bhimashankar-Cab"><i className="fa fa-car darkcolor"></i> Pune to Bhimashankar Cab</Link></li>
 
                       <li><Link to="/Pune-to-Konkan-Darshan-Cab"><i className="fa fa-car darkcolor"></i> Pune to Konkan Darshan Cab</Link></li>
@@ -165,6 +158,14 @@ const Footer = () => {
 <li><Link to="/Pune-Darshan-Package"><i className="fa fa-car darkcolor"></i> Pune Darshan Package</Link></li>
 <li><Link to="/Pune-to-Indore-Cab"><i className="fa fa-car darkcolor"></i> Pune to Indore Cab</Link></li>
 <li><Link to="/Pune-to-Gujarat-Cab"><i className="fa fa-car darkcolor"></i> Pune to Gujarat Cab</Link></li>
+
+                    </ul>
+                  </div>
+                </div>
+                <div className="col-lg-4 col-md-6">
+                  <div className="footer-widget footer-menu">
+                    <h5 className="footer-title">Our Services</h5>
+                    <ul>
 <li><Link to="/Pune-to-Rajasthan-Cab"><i className="fa fa-car darkcolor"></i> Pune to Rajasthan Cab</Link></li>
 <li><Link to="/Pune-to-Bangalore-Cab"><i className="fa fa-car darkcolor"></i> Pune to Bangalore Cab</Link></li>
 <li><Link to="/Pune-to-Shirdi-Cab"><i className="fa fa-car darkcolor"></i> Pune to Shirdi Cab</Link></li>
@@ -179,6 +180,31 @@ const Footer = () => {
 <li><Link to="/Pan-India-Bus-Cab-Service-Pune"><i className="fa fa-car darkcolor"></i> Pan India Bus & Cab Service Pune</Link></li>
 <li><Link to="/Pune-to-Mysore-Ooty-Bus-Tour-Package"><i className="fa fa-car darkcolor"></i> Pune to Mysore Ooty Bus Tour Package</Link></li>
 <li><Link to="/Pune-to-Madhya-Pradesh-Bus-for-Trip"><i className="fa fa-car darkcolor"></i> Pune to Madhya Pradesh Bus for Trip</Link></li>
+                  
+                  <li><Link to="/Bus-On-Rent-Pune"><i className="fa fa-bus darkcolor"></i> Bus On Rent Pune</Link></li>
+<li><Link to="/Pune-Bus-Hire"><i className="fa fa-bus darkcolor"></i> Pune Bus Hire</Link></li>
+<li><Link to="/Bus-Hire-in-Pune"><i className="fa fa-bus darkcolor"></i> Bus Hire in Pune</Link></li>
+<li><Link to="/Bus-Service-Pune"><i className="fa fa-bus darkcolor"></i> Bus Service Pune</Link></li>
+<li><Link to="/Rent-a-Bus-Pune"><i className="fa fa-bus darkcolor"></i> Rent a Bus Pune</Link></li>
+<li><Link to="/40-Seater-Bus-On-Rent-in-Pune"><i className="fa fa-bus darkcolor"></i> 40 Seater Bus On Rent in Pune</Link></li>
+<li><Link to="/25-Seater-Bus-On-Rent-in-Pune"><i className="fa fa-bus darkcolor"></i> 25 Seater Bus On Rent in Pune</Link></li>
+<li><Link to="/Mini-Bus-Rental-Pune"><i className="fa fa-bus darkcolor"></i> Mini Bus Rental Pune</Link></li>
+<li><Link to="/Urbania-On-Rent-in-Pune"><i className="fa fa-bus darkcolor"></i> Urbania On Rent in Pune</Link></li>
+<li><Link to="/Urbania-On-Rent-Pune"><i className="fa fa-bus darkcolor"></i> Urbania On Rent Pune</Link></li>
+<li><Link to="/Tempo-Traveller-Rental-Pune"><i className="fa fa-bus darkcolor"></i> Tempo Traveller Rental Pune</Link></li>
+<li><Link to="/Bus-Rentals-for-Corporate-Events"><i className="fa fa-bus darkcolor"></i> Bus Rentals for Corporate Events</Link></li>
+<li><Link to="/20-Seater-Tempo-Traveller-On-Rent-in-Pune"><i className="fa fa-bus darkcolor"></i> 20 Seater Tempo Traveller On Rent in Pune</Link></li>
+<li><Link to="/26-Seater-Bus-On-Rent-in-Pune"><i className="fa fa-bus darkcolor"></i> 26 Seater Bus On Rent in Pune</Link></li>
+<li><Link to="/Urbania-On-Rent-in-Pimpri-Chinchwad"><i className="fa fa-bus darkcolor"></i> Urbania On Rent in Pimpri Chinchwad</Link></li>
+<li><Link to="/Innova-Crysta-On-Rent-in-Pune"><i className="fa fa-car darkcolor"></i> Innova Crysta On Rent in Pune</Link></li>
+<li><Link to="/Mini-Bus-Hire-in-Pune"><i className="fa fa-bus darkcolor"></i> Mini Bus Hire in Pune</Link></li>
+<li><Link to="/Tempo-Traveller-On-Rent-in-Pimpri-Chinchwad"><i className="fa fa-bus darkcolor"></i> Tempo Traveller On Rent in Pimpri Chinchwad</Link></li>
+<li><Link to="/Bus-Rental-for-Corporate-Events-in-Pune"><i className="fa fa-bus darkcolor"></i> Bus Rental for Corporate Events in Pune</Link></li>
+<li><Link to="/Wedding-Bus-Rental-Services-in-Pune"><i className="fa fa-bus darkcolor"></i> Wedding Bus Rental Services in Pune</Link></li>
+<li><Link to="/Bus-Rental-Pune"><i className="fa fa-bus darkcolor"></i> Bus Rental Pune</Link></li>
+<li><Link to="/Mini-Bus-Rentals-Pune"><i className="fa fa-bus darkcolor"></i> Mini Bus Rentals Pune</Link></li>
+<li><Link to="/Innova-On-Rent-in-Pune"><i className="fa fa-car darkcolor"></i> Innova On Rent in Pune</Link></li>
+
                     </ul>
                   </div>
                 </div>
