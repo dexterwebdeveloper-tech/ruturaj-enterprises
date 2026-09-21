@@ -432,7 +432,7 @@ const productSchema = {
                 <div className="container-fluid" >
                     <div className="row container-fluid">
                         <div className="col-12 col-md-7 bg-foootr">
-                            <img src='/images/keyword/84.jpg' alt='img' className='img-fluid' />
+                            <img src='/images/keyword/84.jpeg' alt='img' className='img-fluid' />
                             <h3 className="py-1"
                                 style={{
                                     color: '#FF681A', // Red color for the title 

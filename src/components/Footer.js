@@ -111,6 +111,12 @@ const Footer = () => {
 <li><Link to="/Pune-to-Uttar-Pradesh-bus-on-rent"><i className="fa fa-car darkcolor"></i> Pune to Uttar Pradesh bus on rent</Link></li>
 <li><Link to="/Book-Konkan-Darshan-Tour-Packages-from-Pune-by-Bus"><i className="fa fa-car darkcolor"></i> Book Konkan Darshan Tour Packages from Pune by Bus</Link></li>
 
+<li><Link to="/Tempo-Traveller-On-Rent"><i className="fa fa-car darkcolor"></i> Tempo Traveller On Rent</Link></li>
+
+<li><Link to="/Bus-services-for-corporate-in-Pune"><i className="fa fa-car darkcolor"></i> Bus services for corporate in Pune</Link></li>
+<li><Link to="/Local-Bus-Hire-In-Pune"><i className="fa fa-car darkcolor"></i> Local Bus Hire In Pune</Link></li>
+<li><Link to="/Pune-to-Lonavala-Bus-Tour-Package"><i className="fa fa-car darkcolor"></i> Pune to Lonavala Bus Tour Package</Link></li>
+<li><Link to="/Pune-to-Nashik-Bus-on-Rent-Packages"><i className="fa fa-car darkcolor"></i> Pune to Nashik Bus on Rent Packages</Link></li>
 
                     </ul>
                   </div>
@@ -119,12 +125,6 @@ const Footer = () => {
                   <div className="footer-widget footer-menu">
                     <h5 className="footer-title">Our Services</h5>
   <ul>
-<li><Link to="/Tempo-Traveller-On-Rent"><i className="fa fa-car darkcolor"></i> Tempo Traveller On Rent</Link></li>
-
-<li><Link to="/Bus-services-for-corporate-in-Pune"><i className="fa fa-car darkcolor"></i> Bus services for corporate in Pune</Link></li>
-<li><Link to="/Local-Bus-Hire-In-Pune"><i className="fa fa-car darkcolor"></i> Local Bus Hire In Pune</Link></li>
-<li><Link to="/Pune-to-Lonavala-Bus-Tour-Package"><i className="fa fa-car darkcolor"></i> Pune to Lonavala Bus Tour Package</Link></li>
-<li><Link to="/Pune-to-Nashik-Bus-on-Rent-Packages"><i className="fa fa-car darkcolor"></i> Pune to Nashik Bus on Rent Packages</Link></li>
 <li><Link to="/Luxury-12-14-Seater-Tempo-Traveller-in-Pune"><i className="fa fa-car darkcolor"></i> Luxury 12,14 Seater Tempo Traveller in Pune</Link></li>
 <li><Link to="/Bus-for-Tourist-in-Pune"><i className="fa fa-car darkcolor"></i> Bus for Tourist in Pune</Link></li>
 <li><Link to="/Pune-to-Sinhagad-Fort-Bus-on-rent-in-Pune"><i className="fa fa-car darkcolor"></i> Pune to Sinhagad Fort Bus on rent in Pune</Link></li>
@@ -158,14 +158,6 @@ const Footer = () => {
 <li><Link to="/Pune-Darshan-Package"><i className="fa fa-car darkcolor"></i> Pune Darshan Package</Link></li>
 <li><Link to="/Pune-to-Indore-Cab"><i className="fa fa-car darkcolor"></i> Pune to Indore Cab</Link></li>
 <li><Link to="/Pune-to-Gujarat-Cab"><i className="fa fa-car darkcolor"></i> Pune to Gujarat Cab</Link></li>
-
-                    </ul>
-                  </div>
-                </div>
-                <div className="col-lg-4 col-md-6">
-                  <div className="footer-widget footer-menu">
-                    <h5 className="footer-title">Our Services</h5>
-                    <ul>
 <li><Link to="/Pune-to-Rajasthan-Cab"><i className="fa fa-car darkcolor"></i> Pune to Rajasthan Cab</Link></li>
 <li><Link to="/Pune-to-Bangalore-Cab"><i className="fa fa-car darkcolor"></i> Pune to Bangalore Cab</Link></li>
 <li><Link to="/Pune-to-Shirdi-Cab"><i className="fa fa-car darkcolor"></i> Pune to Shirdi Cab</Link></li>
@@ -176,6 +168,14 @@ const Footer = () => {
 <li><Link to="/Pune-to-Aurangabad-Cab"><i className="fa fa-car darkcolor"></i> Pune to Aurangabad Cab</Link></li>
 <li><Link to="/Corporate-Cab-Services-in-Pune"><i className="fa fa-car darkcolor"></i> Corporate Cab Services in Pune</Link></li>
 <li><Link to="/Wedding-Car-Rental-Pune"><i className="fa fa-car darkcolor"></i> Wedding Car Rental Pune</Link></li>
+
+                    </ul>
+                  </div>
+                </div>
+                <div className="col-lg-4 col-md-6">
+                  <div className="footer-widget footer-menu">
+                    <h5 className="footer-title">Our Services</h5>
+                    <ul>
 <li><Link to="/Cab-Service-in-Pimpri-Chinchwad"><i className="fa fa-car darkcolor"></i> Cab Service in Pimpri Chinchwad</Link></li>
 <li><Link to="/Pan-India-Bus-Cab-Service-Pune"><i className="fa fa-car darkcolor"></i> Pan India Bus & Cab Service Pune</Link></li>
 <li><Link to="/Pune-to-Mysore-Ooty-Bus-Tour-Package"><i className="fa fa-car darkcolor"></i> Pune to Mysore Ooty Bus Tour Package</Link></li>
@@ -204,6 +204,21 @@ const Footer = () => {
 <li><Link to="/Bus-Rental-Pune"><i className="fa fa-bus darkcolor"></i> Bus Rental Pune</Link></li>
 <li><Link to="/Mini-Bus-Rentals-Pune"><i className="fa fa-bus darkcolor"></i> Mini Bus Rentals Pune</Link></li>
 <li><Link to="/Innova-On-Rent-in-Pune"><i className="fa fa-car darkcolor"></i> Innova On Rent in Pune</Link></li>
+
+
+<li><Link to="/Urbania-Hire-for-Corporate-Events-in-Pune"><i className="fa fa-bus darkcolor"></i> Urbania Hire for Corporate Events in Pune</Link></li>
+<li><Link to="/17-Seater-Urbania-on-Rent-in-Pune"><i className="fa fa-bus darkcolor"></i> 17 Seater Urbania on Rent in Pune</Link></li>
+<li><Link to="/14-Seater-Urbania-on-Rent-in-Pune"><i className="fa fa-bus darkcolor"></i> 14 Seater Urbania on Rent in Pune</Link></li>
+<li><Link to="/Urbania-on-Rent-in-Kharadi"><i className="fa fa-bus darkcolor"></i> Urbania on Rent in Kharadi</Link></li>
+<li><Link to="/Urbania-on-Rent-in-Hadapsar"><i className="fa fa-bus darkcolor"></i> Urbania on Rent in Hadapsar</Link></li>
+<li><Link to="/Urbania-on-Rent-in-Kothrud"><i className="fa fa-bus darkcolor"></i> Urbania on Rent in Kothrud</Link></li>
+<li><Link to="/Urbania-on-Rent-in-Koregaon-Park"><i className="fa fa-bus darkcolor"></i> Urbania on Rent in Koregaon Park</Link></li>
+<li><Link to="/Urbania-for-Wedding-Events-in-Pune"><i className="fa fa-bus darkcolor"></i> Urbania for Wedding Events in Pune</Link></li>
+<li><Link to="/Urbania-for-Pune-to-Mahabaleshwar-Hire"><i className="fa fa-bus darkcolor"></i> Urbania for Pune to Mahabaleshwar Hire</Link></li>
+<li><Link to="/Urbania-for-Pune-to-Goa-Tour-Package"><i className="fa fa-bus darkcolor"></i> Urbania for Pune to Goa Tour Package</Link></li>
+<li><Link to="/Pune-to-Shirdi-Urbania-On-Rent"><i className="fa fa-bus darkcolor"></i> Pune to Shirdi Urbania On Rent</Link></li>
+<li><Link to="/Luxury-Force-Urbania-On-Rent-in-Pune"><i className="fa fa-bus darkcolor"></i> Luxury Force Urbania On Rent in Pune</Link></li>
+<li><Link to="/Urbania-Hire-for-Picnic-in-Pune"><i className="fa fa-bus darkcolor"></i> Urbania Hire for Picnic in Pune</Link></li>
 
                     </ul>
                   </div>

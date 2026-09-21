@@ -127,6 +127,19 @@ import Weddingbusrental from './pages/Wedding Bus Rental Services in Pune';
 import Busrentalpune from './pages/Bus Rental Pune';
 import Minibusrentalpunee from './pages/Mini Bus Rentals Pune';
 import Innovaonrentinpune from './pages/Innova On Rent in Pune';
+import Urbaniahireforcorporateeverts from './pages/Urbania Hire for Corporate Events in Pune';
+import Onesevanseaterurbania from './pages/17 Seater Urbania on Rent in Pune';
+import Onefourseater from './pages/14 Seater Urbania on Rent in Pune';
+import Urbaniaonrentinkharadi from './pages/Urbania on Rent in Kharadi';
+import Urbaniaonrentinhadapsar from './pages/Urbania on Rent in Hadapsar';
+import Urbaniaonrentinkothrud from './pages/Urbania on Rent in Kothrud';
+import Urbaniaonrentinkoregaon from './pages/Urbania on Rent in Koregaon Park';
+import Urbaniaforwedding from './pages/Urbania for Wedding Events in Pune';
+import Urbaniaforpune from './pages/Urbania for Pune to Mahabaleshwar Hire';
+import Urbaniaforpunetogoa from './pages/Urbania for Pune to Goa Tour Package';
+import Punetoshirdiurbania from './pages/Pune to Shirdi Urbania On Rent';
+import Luxuryforceurbania from './pages/Luxury Force Urbania On Rent in Pune';
+import Urbaniahireforpicnic from './pages/Urbania Hire for Picnic in Pune';
 
 function App() {
   return (
@@ -262,6 +275,21 @@ function App() {
 <Route path="/Bus-Rental-Pune" element={<Busrentalpune />} />
 <Route path="/Mini-Bus-Rentals-Pune" element={<Minibusrentalpunee />} />
 <Route path="/Innova-On-Rent-in-Pune" element={<Innovaonrentinpune />} />
+
+
+<Route path="/Urbania-Hire-for-Corporate-Events-in-Pune" element={<Urbaniahireforcorporateeverts />} />
+<Route path="/17-Seater-Urbania-on-Rent-in-Pune" element={<Onesevanseaterurbania />} />
+<Route path="/14-Seater-Urbania-on-Rent-in-Pune" element={<Onefourseater />} />
+<Route path="/Urbania-on-Rent-in-Kharadi" element={<Urbaniaonrentinkharadi />} />
+<Route path="/Urbania-on-Rent-in-Hadapsar" element={<Urbaniaonrentinhadapsar />} />
+<Route path="/Urbania-on-Rent-in-Kothrud" element={<Urbaniaonrentinkothrud />} />
+<Route path="/Urbania-on-Rent-in-Koregaon-Park" element={<Urbaniaonrentinkoregaon />} />
+<Route path="/Urbania-for-Wedding-Events-in-Pune" element={<Urbaniaforwedding />} />
+<Route path="/Urbania-for-Pune-to-Mahabaleshwar-Hire" element={<Urbaniaforpune />} />
+<Route path="/Urbania-for-Pune-to-Goa-Tour-Package" element={<Urbaniaforpunetogoa />} />
+<Route path="/Pune-to-Shirdi-Urbania-On-Rent" element={<Punetoshirdiurbania />} />
+<Route path="/Luxury-Force-Urbania-On-Rent-in-Pune" element={<Luxuryforceurbania />} />
+<Route path="/Urbania-Hire-for-Picnic-in-Pune" element={<Urbaniahireforpicnic />} />
 
       </Routes>
 
